@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1773816092056,
+    "name": "Royal Hotel",
+    "location": "Mumbai",
+    "pricePerPlate": 200,
+    "cuisines": [
+      "Japanese",
+      "Chinese"
+    ],
+    "rating": 3.5
+  },
+  {
+    "id": 1773816378732,
+    "name": "Test Hotel",
+    "location": "Navi Mumbai",
+    "pricePerPlate": 400,
+    "cuisines": [
+      "Japanese",
+      "Chinese",
+      "Indian"
+    ],
+    "rating": 4.5
+  }
+]
