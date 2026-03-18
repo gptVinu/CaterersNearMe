@@ -1,3 +1,16 @@
-# .env files should not be committed to version control
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Environment Variables
 .env
 .env.*
+
+# Build outputs
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
